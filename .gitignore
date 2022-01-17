@@ -1,0 +1,67 @@
+# OSX
+#
+menuer/.DS_Store
+
+# Xcode
+#
+menuer/ios/build/
+menuer/ios/*.pbxuser
+menuer/ios/!default.pbxuser
+menuer/ios/*.mode1v3
+menuer/ios/!default.mode1v3
+menuer/ios/*.mode2v3
+menuer/ios/!default.mode2v3
+menuer/ios/*.perspectivev3
+menuer/ios/!default.perspectivev3
+menuer/ios/xcuserdata
+menuer/ios/*.xccheckout
+menuer/ios/*.moved-aside
+menuer/ios/DerivedData
+menuer/ios/*.hmap
+menuer/ios/*.ipa
+menuer/ios/*.xcuserstate
+
+# Android/IntelliJ
+#
+menuer/android/build/
+menuer/android/app/build/
+menuer/android/.idea
+menuer/android/.gradle
+menuer/android/local.properties
+menuer/android/*.iml
+menuer/android/*.hprof
+menuer/android/app/*.keystore
+
+# node.js
+#
+menuer/node_modules/
+menuer/npm-debug.log
+menuer/yarn-error.log
+
+# BUCK
+menuer/buck-out/
+.buckd/
+menuer/*.keystore
+menuer/!debug.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+menuer/ios/Pods/
+
+# Watchman
+menuer/.watchmanconfig
+menuer/.prettierrc.js
+menuer/.buckconfig
