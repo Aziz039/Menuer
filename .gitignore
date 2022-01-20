@@ -1,6 +1,6 @@
 # OSX
 #
-menuer/.DS_Store
+.DS_Store
 
 # Xcode
 #
@@ -65,3 +65,7 @@ menuer/ios/Pods/
 menuer/.watchmanconfig
 menuer/.prettierrc.js
 menuer/.buckconfig
+menuer/android/app/google-services.json
+menuer/ios/menuer.xcodeproj/project.pbxproj
+menuer/ios/menuer.xcodeproj/project.pbxproj
+menuer/ios/menuer/GoogleService-Info.plist
